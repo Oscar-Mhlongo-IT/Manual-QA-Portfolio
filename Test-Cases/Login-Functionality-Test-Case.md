@@ -18,7 +18,7 @@
 - Dashboard page is displayed.
 
 ## Actual Result:
-- (Leave blank for now)
+- To be executed/ Pending
 
 ## Status:
-- Pass / Fail
+- Not executed as yet
