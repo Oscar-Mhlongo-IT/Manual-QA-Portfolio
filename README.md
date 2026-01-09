@@ -1,4 +1,4 @@
-💼 Oscar Mhlongo — Manual QA Portfolio  
+##💼 Oscar Mhlongo — Manual QA Portfolio  
 🎓 IT Graduate | 🧪 Manual QA Tester | 📍 South Africa  
 
 ---
