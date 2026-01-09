@@ -67,4 +67,5 @@ skilled QA professional.
 
 - 📧 Email: mhlongooscar78@gmail.com  
 - 💼 LinkedIn: your-linkedin-url  
-- 🐙 GitHub: https://github.com/your-username  
+- 🐙 GitHub: https://github.com/Oscar-Mhlongo-IT
+  
