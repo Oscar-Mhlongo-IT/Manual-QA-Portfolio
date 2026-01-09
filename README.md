@@ -2,6 +2,12 @@
 
 ### 🎓 IT Graduate | 🧪 Manual QA Tester | 📍 South Africa
 
+![Status](https://img.shields.io/badge/Status-Graduate-brightgreen)
+![Focus](https://img.shields.io/badge/Focus-Manual%20QA-blue)
+![Currently](https://img.shields.io/badge/Currently-Waiting%20for%20Graduation-yellow)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen)
+
+
 ---
 
 ## 👨‍💻 About Me
