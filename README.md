@@ -1,6 +1,7 @@
 # 💼 Oscar Mhlongo — Manual QA Portfolio
 
-### 🎓 IT Graduate | 🧪 Manual QA Tester | 📍 South Africa
+### 🎓 IT Graduate | 🧪 Manual QA Tester | 📝 Test Case Design • 🐞 Bug Reporting • 📊 SDLC/STLC | 🇿🇦 South Africa
+
 
 ![Status](https://img.shields.io/badge/Status-Graduate-brightgreen)
 ![Focus](https://img.shields.io/badge/Focus-Manual%20QA-blue)
